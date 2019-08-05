@@ -7,5 +7,7 @@ int add(int x,int y)
 
 int main()
 {
+    int a;
+    int b;
     printf("hello\n");
 }
